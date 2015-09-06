@@ -1,20 +1,10 @@
 options(shiny.maxRequestSize=20*1024^2)
 shinyServer(function(input,output,session){
     
-    #fancy work here
-    #render images
-    output$titlePNG<-renderImage({
-        list(src="images/title.png", alt=NULL)
-    },deleteFile=FALSE)
-    
     output$logoPNG<-renderImage({
         list(src="images/logo.png", alt=NULL)
     },deleteFile=FALSE)
-    
-    output$algoPNG<-renderImage({
-        list(src="images/redhyte algo.png",alt=NULL)
-    },deleteFile=FALSE)
-    
+        
     
     #=============================================#
     #=============================================#
