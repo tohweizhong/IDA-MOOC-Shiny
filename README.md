@@ -1,4 +1,4 @@
 # IDA-MOOC-Shiny
 An R shiny demo for IDA MOOC facilitation, Developing Data Products
 
-* [Slide deck](http://www.slideshare.net/tohweizhong/da-mooc-facilitation-coursera-data-science-specialization-developing-data-products)
+* [Slide deck](http://www.slideshare.net/tohweizhong/an-r-shiny-demo-for-ida-mooc-facilitation-developing-data-products)
